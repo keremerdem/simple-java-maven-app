@@ -5,7 +5,6 @@
         stage('Build') {
             steps {
                 echo 'Building..'
-                echo 'Built..'
             }
         }
         stage('Test') {
